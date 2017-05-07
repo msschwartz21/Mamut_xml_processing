@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code developed to analyze the results of cell tracking with [MaMuT](http://imagej.net/MaMuT). The data originally used for this project of ~17 hours of *Drosophila* embryonic development was collected in the [Keller Lab](https://www.janelia.org/lab/keller-lab). For an introduction to this code and examples of its visualizations, please see [this introductory Jupyter notebook](Track Processing and Analysis Example.ipynb).
+This repository contains code developed to analyze the results of cell tracking with [MaMuT](http://imagej.net/MaMuT). The data originally used for this project of ~17 hours of *Drosophila* embryonic development was collected in the [Keller Lab](https://www.janelia.org/lab/keller-lab). For an introduction to this code and examples of its visualizations, please see [this introductory Jupyter notebook](Mamut_xml_processing/Track Processing and Analysis Example.ipynb).
 
 ## *mamut* class
 
